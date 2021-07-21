@@ -1,0 +1,1 @@
+export const baseUrl = 'https://cors.bridged.cc/https://impraise-shorty.herokuapp.com/';

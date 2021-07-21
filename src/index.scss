@@ -1,0 +1,24 @@
+// FONTS
+
+@font-face {
+  font-family: 'Montserrat-Regular';
+  src: url(./assets/Fonts/Montserrat/Montserrat-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: url(./assets/Fonts/Roboto/Roboto-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto-Light';
+  src: url(./assets/Fonts/Roboto/Roboto-Light.ttf) format('truetype');
+}
+
+// VARIABLE
+
+// font-color
+$color-primary: #555555;
+$color-secondary: #AAAAAA;
+$color-unimportant: #cccccc;
+
+/** Design Colors */
+$accent: #EB4A42;
